@@ -3,7 +3,7 @@ import requests,json
 ip='http://60.167.58.178:8000'
 getid='/zhjypt/app/getDjPageList'
 
-print('芜湖公安智慧学答案分析v1.0\n')
+print('芜湖ga智慧学答案分析v1.0\n')
 print('请输入需要的答案序号：1，每周一考；2，每月一考；3，季度考试。')
 a=input()
 
